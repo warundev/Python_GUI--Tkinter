@@ -10,18 +10,22 @@
 
 
 
-# Simple Python GUI Calculator.
+# Python Tkinter Digital Clock
+
+A simple digital clock built using Python and Tkinter. This project showcases the capabilities of the Tkinter library for creating graphical user interfaces in Python. The digital clock displays the current time in hours, minutes, and seconds, providing a clear and user-friendly interface.
 
 
-  ![Screenshot 2023-11-29 135643](https://github.com/warundev/Python_GUI--Tkinter/assets/120333797/eb218c61-4a08-4152-95d4-1cca8009d1e3)
+![Screenshot 2023-11-29 150806](https://github.com/warundev/Python_GUI--Tkinter/assets/120333797/f10c0df8-f9ea-4092-ad86-3d9d01f86c36)
 
 
 
 ## Features
 
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
+* Real-time clock display
+* Built with Python and Tkinter
+* Minimalist and easy-to-use interface
+
+**Feel free to explore, use, and contribute to the project!**
+
 
